@@ -1,0 +1,159 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* ----- Header ----- */
+.header_container {
+	height: 40px;
+	width: 100%;
+	border-bottom: 1px solid black;
+}
+
+.header_container input {
+	display: inline-block;
+	float: left;
+}
+
+.header_inner_container {
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+	height: 40px;
+	text-align: center;
+}
+
+.header_container img {
+	height: 30px;
+	width: auto;
+	display: inline-block;
+	position: relative;
+	bottom: 5px;
+}
+
+.links_container {
+	float: right;
+	display: inline-block;
+}
+
+.links_container span {
+	margin-right: 20px;
+}
+
+/* ----- Navbar ----- */
+.navbar_container {
+	border-bottom: 1px solid black;
+	
+	width: 100%;
+	padding: 7px;
+}
+
+.navbar_container ul {
+	list-style: none;
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+
+.navbar_container li {
+	display: inline-block;
+	margin-right: 25px;
+	cursor: pointer;
+	font-color: black;
+}
+
+
+
+/* -------- Main ------- */
+.main_img {
+	width: 55%;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+.main_container > a {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	bottom: 50px;
+}
+
+.flex_container {
+	border: 1px solid black;
+	height: 700px;
+	width: 60%;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+}
+
+/* ----- Tile ----- */
+
+.tile_container {
+	border: 1px solid black;
+	width: 33.3%;
+	height: 50%;
+	overflow: hidden;
+}
+
+.tile_info {
+	width: 20%;
+	height: 100px;
+	position: absolute;
+	z-index: 1;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.tile_info span {
+	display: block;
+	text-align: right;
+}
+
+.tile_info a {
+	font-weight: bold;
+	text-decoration: underline;
+	display: inline-block;
+	float: right;
+}
+
+.original_img {
+	width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 0;
+}
+
+.zoom_img {
+	transform: scale(1.7);
+	position: relative;
+	top: 50px;
+}
+
+
+
+/* ----- Footer ----- */
+.footer_container {
+	height: 50px;
+	width: 100%;
+	border-top: 1px solid black;
+	padding: 10px;
+}
+
+.footer_container ul {
+	list-style: none;
+	text-align: center;
+}
+
+.footer_container li {
+	display: inline-block;
+	margin-right: 20px;
+}
+

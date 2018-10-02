@@ -1,0 +1,60 @@
+
+  { "men":
+    [{
+    "type": "the Ludlow",
+    "style": "wide-lapel",
+    "clothing": "suit",
+    "country": "Japanese",
+    "material": "seersucker",
+    "img_url": "item01.jpeg",
+    "hover_url": "item01_hover.jpeg"
+  },
+  {
+    "type": "the Ludlow",
+    "style": "unstructured",
+    "clothing": "suit",
+    "color": "blue",
+    "shape": "herringbone",
+    "material": "cotton-linen",
+    "img_url": "item02.jpg",
+    "hover_url": "item01_hover.jpeg"
+  },
+  {
+    "type": "Ludlow",
+    "style": "unstructured",
+    "clothing": "suit",
+    "color": "blue",
+    "material": "seersucker",
+    "price": "$266",
+    "img_url": "item03.jpeg",
+    "hover_url": "item01_hover.jpeg"
+  },
+  {
+    "type": "the Ludlow",
+    "clothing": "suit",
+    "color": "navy",
+    "country": "Italian",
+    "material": "Oxford",
+    "img_url": "item04.jpeg",
+    "hover_url": "item01_hover.jpeg"
+  },
+  {
+    "type": "Ludlow",
+    "style": "shawl-collar",
+    "clothing": "tuxedo",
+    "material": "linen-silk",
+    "img_url": "item05.jpeg",
+    "hover_url": "item01_hover.jpeg"
+  },
+  {
+    "type": "the Ludlow",
+    "style": "unconstructed",
+    "clothing": "suit",
+    "shape": "stretch",
+    "material": "cotton",
+    "price": "$266",
+    "img_url": "item06.jpeg",
+    "hover_url": "item01_hover.jpeg"
+  }
+]
+  }

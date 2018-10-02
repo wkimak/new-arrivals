@@ -1,0 +1,17 @@
+{ "nav": [
+    {
+     "navGroups": [
+     		  {
+           "navitems": [{ "label": "NEW ARRIVALS", "url": "new_arrivals"}, 
+           	            { "label": "WOMEN", "url": "women"}, 
+           	            { "label": "MEN", "url": "men"}, 
+           	            { "label": "GIRLS", "url": "girls"},
+           	            { "label": "BOYS", "url": "boys"},
+           	            { "label": "SALE", "url": "sale"},
+           	            { "label": "BLOG", "url": "blog"},
+           	            { "label": "COMPANY", "url": "company"}]
+           }
+     	  ]  
+     }
+  ]
+}
